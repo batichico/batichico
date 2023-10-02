@@ -11,6 +11,7 @@ My Github Stats:
   <p align = "left">
     <img src="https://github-readme-stats.vercel.app/api?username=batichico&show_icons=true&theme=radical&line_height=27"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batichico&hide=css,html&theme=tokyonight">
+    <img src="https://streak-stats.demolab.com/?user=batichico&hide=css,html&theme=tokyonight">
   </p>
  
 ![Profile views](https://gpvc.arturio.dev/batichico)  
@@ -40,3 +41,8 @@ src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' heig
 |[How to create Telegram basic bot](https://github.com/batichico/botBasicoGlitch)    |[How to create simple API](https://github.com/batichico/praticeHugAPI)   |[Princebot](https://github.com/batichico/princebot)   |[Fighterbot](https://github.com/batichico/fighterbot)   |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 
+---
+
+![GitHub metrics](https://metrics.lecoq.io/batichico)  
+
+---
